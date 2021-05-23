@@ -10,7 +10,7 @@ $ source project-env/bin/activate
 # Clone the project repository
 $ git clone https://github.com/kashishbagadia/web-tech-project.git
 
-#Download all the dependencies needed to run this project
+# Download all the dependencies needed to run this project
 # Run Django Server
 $ cd project/
 $ pip install -r requirements.txt
